@@ -19,7 +19,7 @@ class ViewController: UIViewController
     
     @IBAction func buttonAction(_ sender: UIButton)
     {
-    
+        print("Button Clicked")
     }
     
 }
